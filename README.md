@@ -3,7 +3,7 @@ pubDate: 2024-12-10
 description: 'Это первый пост моего нового блога.'
 author: 'Ученик Нетологии-Цинкович Карина'
 image:
-    url: 'https://cn.distant.msu.ru/pluginfile.php/115866/course/overviewfiles/1702019548_684%5B1%5D.jpg'
+    url: 'C:\Users\karin\Desktop\my folder\253-2537667_pointers-png-transparent-png.png'
     alt: 'Полный логотип С++.'
 tags: ["С++", "Git", "обучение"]
 ---
