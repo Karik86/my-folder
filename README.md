@@ -1,12 +1,4 @@
-title: 'Моя первая запись в блоге'
-pubDate: 2024-12-10
-description: 'Это первый пост моего нового блога.'
-author: 'Ученик Нетологии-Цинкович Карина'
-image:
-    url: 'C:\Users\karin\Desktop\my folder\253-2537667_pointers-png-transparent-png.png'
-    alt: 'Полный логотип С++.'
-tags: ["С++", "Git", "обучение"]
----
+![alt text](253-2537667_pointers-png-transparent-png-1.png)
 # Моя первая запись в блоге
 
 Опубликовано: 10.12.2024
@@ -26,4 +18,4 @@ tags: ["С++", "Git", "обучение"]
 ## Что дальше
 
 Я продолжаю изучать язык программирования С++
-Ссылка на проект [Игра Жизнь] 'https://github.com/Karik86/Life/tree/main'
+Ссылка на проект 'https://github.com/Karik86/Life/tree/main'
